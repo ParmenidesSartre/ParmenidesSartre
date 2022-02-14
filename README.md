@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Faizal Azman
+- 👋 Hi, I’m Mohd Faizal Bin Azman
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Django, React and React Native
 - 📫 You can reach me at faizalazman@gmail.com
