@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohd Faizal Bin Azman
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Django, React and React Native
+- 👀 I’m interested in solving problems in tech no matter what it is.
+- 🌱 I’m currently learning Rust
 - 📫 You can reach me at faizalazman@gmail.com
 
 <!---
