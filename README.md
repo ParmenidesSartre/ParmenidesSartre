@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohd Faizal Bin Azman
 - 👀 I’m interested in solving problems in tech no matter what it is.
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Java and Spring Boot
 - 📫 You can reach me at faizalazman@gmail.com
 
 <!---
