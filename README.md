@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Mohd Faizal Bin Azman
 - 👀 I’m interested in solving problems in tech no matter what it is.
 - 🌱 I’m currently learning Java and Spring Boot
+- 👨‍🎓 Currently enrolled in Master of Computer Science ( Software Engineering ) to allow myself to provide more business value to company.
 - 📫 You can reach me at faizalazman@gmail.com
 
 <!---
