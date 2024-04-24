@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohd Faizal Bin Azman</h1>
 <h3 align="center">A code maverick with a rebellious spirit</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parmenidessartre" alt="parmenidessartre" /></a> </p>
-
 - 🔭 I’m currently working on **revamping ERP handheld system with better UI. Build everything using React & Redux**
 
 - 🌱 I’m currently attending **Multimedia University for Masters of Computer Science ( Software Engineering )**
