@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohd Faizal Bin Azman</h1>
 <h3 align="center">A code maverick with a rebellious spirit</h3>
 
-- 🔭 I’m currently working on **revamping ERP handheld system with better UI. Build everything using React & Redux**
+- 🔭 I’m currently **leading system migration project for one of the largest automotive company in Malaysia**
 
 - 🌱 I’m currently attending **Multimedia University for Masters of Computer Science ( Software Engineering )**
 
