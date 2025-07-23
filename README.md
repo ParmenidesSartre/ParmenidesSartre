@@ -1,32 +1,19 @@
 <h1 align="center">Hi 👋, I'm Mohd Faizal Bin Azman</h1>
-<h3 align="center">Software Engineer | AI Systems | Blockchain | Serverless Architectures</h3>
+<h3 align="center">Software Engineer — AI • Backend • Blockchain • Serverless</h3>
 
 ---
 
-- 🔭 **Software Engineer @ Almanak AG Labs**  
-  Building high-performance financial simulations using **AI agents** and **blockchain**, focused on decentralized finance (DeFi).
-
-- 🎓 **MSc in Software Engineering**  
-  Multimedia University — graduating **May 2025**.
-
-- 🏗️ **Backend & Infra Expertise**  
-  Specialize in **Node.js**, **Nest.js**, serverless stacks, real-time systems, and API-first architectures.
-
-- 💼 **Past Work: Proton Malaysia (Projek IT Infra)**  
-  Led IT infrastructure upgrades — improved **security**, **compliance**, and **system resilience**.
-
-- 🧠 Ask me about:  
-  `Node.js` • `Nest.js` • `AI integrations` • `Blockchain apps` • `Serverless design patterns`
-
-- 🏆 Highlights:  
-  - **Best Employee Award (2017)**  
-  - **Invited Speaker** — *Marketing Symposium, Politeknik Sultan Azlan Shah (2023–2024)*
-
-- 📫 **faizalazman88@gmail.com**
+🚀 **Building agentic financial simulations** @ Almanak AG Labs  
+🎓 MSc in Software Engineering @ Multimedia University (2026)  
+🏦 Former Deputy Manager (Data Engineering) @ Bank Islam  
+🧠 Skilled in: `Node.js`, `Nest.js`, `Airflow`, `Kubernetes`, `AWS`, `FastAPI`  
+💬 Ask me about backend systems, AI integrations, or blockchain infra  
+📫 **faizalazman88@gmail.com** • Kuala Lumpur  
+🛠️ Check my pinned projects below ↓
 
 ---
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me</h3>
 
 <p align="center">
   <a href="https://github.com/ParmenidesSartre">
