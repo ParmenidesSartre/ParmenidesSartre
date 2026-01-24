@@ -5,7 +5,7 @@
 
 🚀 **Building agentic financial simulations** @ Almanak AG Labs  
 🎓 MSc in Software Engineering @ Multimedia University (2026)  
-🏦 Former Deputy Manager (Data Engineering) @ Bank Islam  
+🏦 Deputy Manager (Data Engineering) @ Bank Islam  
 🧠 Skilled in: `Node.js`, `Nest.js`, `Airflow`, `Kubernetes`, `AWS`, `FastAPI`  
 💬 Ask me about backend systems, AI integrations, or blockchain infra  
 📫 **faizalazman88@gmail.com** • Kuala Lumpur  
